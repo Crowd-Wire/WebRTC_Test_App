@@ -5,7 +5,7 @@ In this application, it's implemented some important features, such as:
 
 - Setting up new room calls;
 - Communicate with audio and video (accessing user's media devices);
-- Add a stream of the user monitor to the call;
+- Screen share;
 - Mute both audio and video;
 - Local room text chat.
 
